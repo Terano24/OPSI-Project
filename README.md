@@ -4,7 +4,5 @@ Prediksi Peptida Imunogenik untuk Imunitas Sel-T sebagai Epitop Potensial Target
 OLIMPIADE PENELIIAN SISWA INDONESIA 2024
 -----------------------------------------
 Original work by:
-I Nyoman Agung Ananda Terano
-
-Mirrabell Frederica Hadiwijono 
+I Nyoman Agung Ananda Terano & Mirrabell Frederica Hadiwijono 
 -----------------------------------------
